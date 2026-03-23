@@ -6,6 +6,13 @@
         "roomid":"13472",
         "seatid":["534"],
         "daysofweek": ["Sunday","Monday","Thursday","Friday"]
+    },
+        {"username": "*******",
+        "password": "*******",
+        "time": ["09:30","22:30"],
+        "roomid":"13472",
+        "seatid":["535"],
+        "daysofweek": ["Sunday","Monday","Thursday","Friday"]
     }
     ]
 
