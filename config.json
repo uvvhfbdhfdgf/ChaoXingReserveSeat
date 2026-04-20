@@ -5,7 +5,7 @@
         "time": ["09:00","22:30"],
         "roomid":"13472",
         "seatid":["518"],
-        "daysofweek": ["Sunday","Monday","Tuesday","Wednesday","Thursday","Saturday","Friday"]
+        "daysofweek": ["Sunday","Monday","Thursday","Saturday","Friday"]
     }
         
     ]
